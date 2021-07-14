@@ -38,7 +38,7 @@ body {
 /* navbar_end */
 
 .background {
-  background-color: blue;
+  background-color: blueviolet;
 }
 
 .player1 h1 {
@@ -51,7 +51,7 @@ body {
 
 .btn {
   text-decoration: none;
-  background: #e02c6d;
+  background:blue;
   flex-direction: row;
   align-items: flex-start;
   padding: 10px 24px;
